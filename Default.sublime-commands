@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "JSON: Format JSON At Cursor",
+        "command": "format_json_at_cursor"
+    }
+]

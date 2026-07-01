@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["ctrl+alt+l"],
+        "command": "format_json_at_cursor"
+    }
+]
